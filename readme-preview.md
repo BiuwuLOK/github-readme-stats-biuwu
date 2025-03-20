@@ -208,7 +208,7 @@ We have included a `transparent` theme that has a transparent background. This t
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiuwuLOK&show_icons=true&theme=transparent)
 ```
 
-<details>
+<details open>
 <summary>:eyes: Show example</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiuwuLOK\&show_icons=true\&theme=transparent)
@@ -223,7 +223,7 @@ You can use the `bg_color` parameter to make any of [the available themes](theme
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiuwuLOK&show_icons=true&bg_color=00000000)
 ```
 
-<details>
+<details open>
 <summary>:eyes: Show example</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiuwuLOK\&show_icons=true\&bg_color=00000000)
@@ -239,7 +239,7 @@ You can use [GitHub's theme context](https://github.blog/changelog/2021-11-24-sp
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BiuwuLOK&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/BiuwuLOK/github-readme-stats-biuwu#gh-light-mode-only)
 ```
 
-<details>
+<details open>
 <summary>:eyes: Show example</summary>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BiuwuLOK\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/BiuwuLOK/github-readme-stats-biuwu#gh-dark-mode-only)
@@ -265,7 +265,7 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
 </picture>
 ```
 
-<details>
+<details open>
 <summary>:eyes: Show example</summary>
 
 <picture>
@@ -735,7 +735,7 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 </a>
 ```
 
-<details>
+<details open>
 <summary>:eyes: Show example</summary>
 
 <a href="https://github.com/BiuwuLOK/github-readme-stats-biuwu">
@@ -772,7 +772,7 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/BiuwuLOK/github-readme-stats-biuwu)
 
-<details>
+<details open>
  <summary><b>:hammer_and_wrench: Step-by-step guide on setting up your own Vercel instance</b></summary>
 
 1.  Go to [vercel.com](https://vercel.com/).
@@ -799,7 +799,7 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 > [!WARNING]\
 > This way of using GRS is not officially supported and was added to cater to some particular use cases where Vercel could not be used (e.g. [#2341](https://github.com/BiuwuLOK/github-readme-stats-biuwu/discussions/2341)). The support for this method, therefore, is limited.
 
-<details>
+<details open>
 <summary><b>:hammer_and_wrench: Step-by-step guide for deploying on other platforms</b></summary>
 
 1.  Fork or clone this repo as per your needs
